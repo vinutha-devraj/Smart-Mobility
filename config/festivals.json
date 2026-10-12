@@ -1,0 +1,7 @@
+[
+  {"date": "2026-01-26", "festival_name": "Republic Day", "is_festival": false, "is_holiday": true},
+  {"date": "2026-08-15", "festival_name": "Independence Day", "is_festival": false, "is_holiday": true},
+  {"date": "2026-10-20", "festival_name": "Deepavali", "is_festival": true, "is_holiday": true},
+  {"date": "2026-11-01", "festival_name": "Karnataka Rajyotsava", "is_festival": true, "is_holiday": true},
+  {"date": "2026-12-25", "festival_name": "Christmas", "is_festival": true, "is_holiday": true}
+]

@@ -1,0 +1,15 @@
+{
+  "Tumkur Road": {"area": "Yeshwanthpur", "typical_direction": "OUTBOUND", "baseline_capacity": 10500, "baseline_speed": 48, "alternative_corridors": ["Mysore Road"], "relative_risk": 1.15},
+  "Hosur Road": {"area": "Silk Board", "typical_direction": "OUTBOUND", "baseline_capacity": 9800, "baseline_speed": 42, "alternative_corridors": ["Sarjapur Road"], "relative_risk": 1.2},
+  "Mysore Road": {"area": "Kengeri", "typical_direction": "OUTBOUND", "baseline_capacity": 9200, "baseline_speed": 44, "alternative_corridors": ["Tumkur Road"], "relative_risk": 1.0},
+  "Outer Ring Road": {"area": "Marathahalli", "typical_direction": "LOCAL", "baseline_capacity": 12500, "baseline_speed": 38, "alternative_corridors": ["ITPL Main Road"], "relative_risk": 1.1},
+  "Bellary Road": {"area": "Hebbal", "typical_direction": "INBOUND", "baseline_capacity": 9000, "baseline_speed": 46, "alternative_corridors": ["Outer Ring Road"], "relative_risk": 1.0},
+  "Sarjapur Road": {"area": "Sarjapur", "typical_direction": "OUTBOUND", "baseline_capacity": 7600, "baseline_speed": 35, "alternative_corridors": ["Hosur Road"], "relative_risk": 1.12},
+  "Whitefield Road": {"area": "Whitefield", "typical_direction": "OUTBOUND", "baseline_capacity": 8300, "baseline_speed": 36, "alternative_corridors": ["ITPL Main Road"], "relative_risk": 1.08},
+  "ITPL Main Road": {"area": "Whitefield", "typical_direction": "LOCAL", "baseline_capacity": 7000, "baseline_speed": 32, "alternative_corridors": ["Whitefield Road"], "relative_risk": 1.05},
+  "Marathahalli": {"area": "Marathahalli", "typical_direction": "INBOUND", "baseline_capacity": 6800, "baseline_speed": 29, "alternative_corridors": ["Outer Ring Road"], "relative_risk": 1.18},
+  "Hebbal": {"area": "Hebbal", "typical_direction": "INBOUND", "baseline_capacity": 7200, "baseline_speed": 34, "alternative_corridors": ["Bellary Road"], "relative_risk": 1.08},
+  "Silk Board": {"area": "Electronic City", "typical_direction": "LOCAL", "baseline_capacity": 6500, "baseline_speed": 25, "alternative_corridors": ["Hosur Road"], "relative_risk": 1.25},
+  "Electronic City": {"area": "Electronic City", "typical_direction": "OUTBOUND", "baseline_capacity": 7800, "baseline_speed": 33, "alternative_corridors": ["Hosur Road"], "relative_risk": 1.1},
+  "Yeshwanthpur": {"area": "Yeshwanthpur", "typical_direction": "INBOUND", "baseline_capacity": 7000, "baseline_speed": 31, "alternative_corridors": ["Tumkur Road"], "relative_risk": 1.08}
+}

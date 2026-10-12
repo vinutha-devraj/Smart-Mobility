@@ -1,0 +1,49 @@
+[
+  {
+    "name": "Tumkur Road / Gorguntepalya",
+    "corridor": "Tumkur Road",
+    "gateway": [77.540, 13.028],
+    "waypoints": [[77.540, 13.028]],
+    "destination_keywords": ["tumakuru", "tumkur", "hubballi", "dharwad", "goa"],
+    "directions": ["OUTBOUND", "INBOUND"]
+  },
+  {
+    "name": "Western ORR / Nayandahalli / Sumanahalli",
+    "corridor": "Outer Ring Road",
+    "waypoints": [[77.500, 12.953], [77.500, 13.000]],
+    "destination_keywords": ["tumakuru", "tumkur", "hubballi", "dharwad", "goa"],
+    "directions": ["OUTBOUND", "INBOUND"]
+  },
+  {
+    "name": "Mysore Road / Kengeri",
+    "corridor": "Mysore Road",
+    "gateway": [77.484, 12.915],
+    "waypoints": [[77.484, 12.915]],
+    "destination_keywords": ["mysuru", "mysore", "coorg", "kodagu", "mandya"],
+    "directions": ["OUTBOUND", "INBOUND"]
+  },
+  {
+    "name": "Hosur Road / Electronic City",
+    "corridor": "Hosur Road",
+    "gateway": [77.660, 12.845],
+    "waypoints": [[77.660, 12.845]],
+    "destination_keywords": ["hosur", "salem", "chennai", "electronic city"],
+    "directions": ["OUTBOUND", "INBOUND"]
+  },
+  {
+    "name": "Bellary Road / Hebbal",
+    "corridor": "Bellary Road",
+    "gateway": [77.590, 13.060],
+    "waypoints": [[77.590, 13.060]],
+    "destination_keywords": ["airport", "devanahalli", "chikkaballapur", "hyderabad", "bellary"],
+    "directions": ["OUTBOUND", "INBOUND"]
+  },
+  {
+    "name": "Whitefield Road / Hoskote",
+    "corridor": "Whitefield Road",
+    "gateway": [77.750, 13.000],
+    "waypoints": [[77.750, 13.000]],
+    "destination_keywords": ["whitefield", "hoskote", "kolar", "chennai"],
+    "directions": ["OUTBOUND", "INBOUND"]
+  }
+]
